@@ -1,0 +1,8 @@
+{
+  "name": "reachcheck-mimxo",
+  "main": "worker.mjs",
+  "account_id": "2d9d297e4b5fc0a491276fa49264d41d",
+  "compatibility_date": "2026-10-11",
+  "workers_dev": false,
+  "routes": [{"pattern": "reach.mimxo.com", "custom_domain": true}]
+}

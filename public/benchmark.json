@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-11T15:53:37.045Z",
+  "version": "2026-10-11.2",
+  "method": "Identifiable read-only GETs, static HTML, one network location, common document paths, no login/payment/tool invocation.",
+  "notARanking": true,
+  "items": [
+    {
+      "host": "agora.mimxo.com",
+      "id": "21b3d698c5138789b4e8c2fb7a51bb2a",
+      "score": 78,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:52:59.212Z"
+    },
+    {
+      "host": "airtable.com",
+      "id": "dcbf471b83042ebcf948f119d5322581",
+      "score": 70,
+      "coverage": 92,
+      "unknown": 1,
+      "observedAt": "2026-10-11T15:53:17.084Z"
+    },
+    {
+      "host": "asana.com",
+      "id": "3267e40b9814f51f9bae0b88cc3a0639",
+      "score": 100,
+      "coverage": 88,
+      "unknown": 2,
+      "observedAt": "2026-10-11T15:53:17.282Z"
+    },
+    {
+      "host": "brevo.com",
+      "id": "f42351e3dc8123a56d7a3f9b1b574b61",
+      "score": 75,
+      "coverage": 96,
+      "unknown": 1,
+      "observedAt": "2026-10-11T15:53:37.027Z"
+    },
+    {
+      "host": "cal.com",
+      "id": "16c15c9adb2afe852a7688c62807fe52",
+      "score": 71,
+      "coverage": 68,
+      "unknown": 3,
+      "observedAt": "2026-10-11T15:53:12.795Z"
+    },
+    {
+      "host": "calendly.com",
+      "id": "2f30361109caf2c9eff86613cac109fc",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:13.759Z"
+    },
+    {
+      "host": "canva.com",
+      "id": "8bf4c79ed5d5ef8cd0f315a6377fbb0c",
+      "score": 50,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:09.014Z"
+    },
+    {
+      "host": "clickup.com",
+      "id": "acd8af076a42956a6ef527c84c22d18f",
+      "score": 100,
+      "coverage": 80,
+      "unknown": 3,
+      "observedAt": "2026-10-11T15:53:18.291Z"
+    },
+    {
+      "host": "cloudflare.com",
+      "id": "1a6c09a4339ebf125096ffc57e28c2b7",
+      "score": 96,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:01.416Z"
+    },
+    {
+      "host": "creem.io",
+      "id": "0ba9993cca7bb980988ae3159d42319b",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:27.057Z"
+    },
+    {
+      "host": "crisp.chat",
+      "id": "8386b7012cacb49972942a221f2f603f",
+      "score": 72,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:35.449Z"
+    },
+    {
+      "host": "datadoghq.com",
+      "id": "ace9a512f2199e9fec4c3d3675461e48",
+      "score": 58,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:23.063Z"
+    },
+    {
+      "host": "discord.com",
+      "id": "50a6232e2e057370b1cf828e248c9104",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:05.996Z"
+    },
+    {
+      "host": "figma.com",
+      "id": "6c278c995cbbb4cb896129bbe26d7f7e",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:09.218Z"
+    },
+    {
+      "host": "firebase.google.com",
+      "id": "58626366833694270aca7a12eb71c4a1",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:03.643Z"
+    },
+    {
+      "host": "fly.io",
+      "id": "295fdfe7cd36019574c69169ff5d5650",
+      "score": 96,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:05.179Z"
+    },
+    {
+      "host": "github.com",
+      "id": "d2c69fb3e70a91fc9c58ad5d3b5fbc0f",
+      "score": 87,
+      "coverage": 92,
+      "unknown": 1,
+      "observedAt": "2026-10-11T15:52:59.686Z"
+    },
+    {
+      "host": "gitlab.com",
+      "id": "70bb4129bf3467022d62b59f967e4657",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:52:59.766Z"
+    },
+    {
+      "host": "grafana.com",
+      "id": "5d7bdae0b155773d89c1e574a1d3b697",
+      "score": 88,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:24.533Z"
+    },
+    {
+      "host": "helpscout.com",
+      "id": "2115c04123242b066d4a363ae55a8ebe",
+      "score": null,
+      "coverage": 32,
+      "unknown": 8,
+      "observedAt": "2026-10-11T15:53:35.852Z"
+    },
+    {
+      "host": "insomnia.rest",
+      "id": "e91d376bed8b1043c40f43a7df59ce24",
+      "score": 72,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:21.542Z"
+    },
+    {
+      "host": "intercom.com",
+      "id": "0bc39829906a50c081f8f34f520ef471",
+      "score": 100,
+      "coverage": 80,
+      "unknown": 3,
+      "observedAt": "2026-10-11T15:53:33.550Z"
+    },
+    {
+      "host": "jotform.com",
+      "id": "c9d87e11c87806e3108bcd79de1cf21b",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:14.355Z"
+    },
+    {
+      "host": "lemonsqueezy.com",
+      "id": "503b87cc7847409dda240dd080c2173c",
+      "score": 64,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:27.844Z"
+    },
+    {
+      "host": "linear.app",
+      "id": "c80c0d7182bf3201ee8479270071ad87",
+      "score": 87,
+      "coverage": 92,
+      "unknown": 1,
+      "observedAt": "2026-10-11T15:53:05.723Z"
+    },
+    {
+      "host": "mailchimp.com",
+      "id": "41e151ba34d86c31539ff84d58da7700",
+      "score": 88,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:31.523Z"
+    },
+    {
+      "host": "make.com",
+      "id": "ef13a5af4d1c93f22edeb3e320375578",
+      "score": null,
+      "coverage": 20,
+      "unknown": 9,
+      "observedAt": "2026-10-11T15:53:15.456Z"
+    },
+    {
+      "host": "mimxo.com",
+      "id": "d75dc0284f9c07d9eac9edb30f67cca1",
+      "score": 100,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:52:59.140Z"
+    },
+    {
+      "host": "miro.com",
+      "id": "7c839f04bf88ebac353ee4eaf3934ab8",
+      "score": 82,
+      "coverage": 88,
+      "unknown": 2,
+      "observedAt": "2026-10-11T15:53:11.675Z"
+    },
+    {
+      "host": "monday.com",
+      "id": "171ddbc307b9e1ce5165c32c614ce7f7",
+      "score": 100,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:20.367Z"
+    },
+    {
+      "host": "n8n.io",
+      "id": "aaa3573b5f667f905cd7535c277aec8f",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:16.059Z"
+    },
+    {
+      "host": "netlify.com",
+      "id": "adb69b85d009ea28488a24350c4567cf",
+      "score": 96,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:01.478Z"
+    },
+    {
+      "host": "notion.so",
+      "id": "6caff54e90e08ad651910baf00f304a6",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:04.271Z"
+    },
+    {
+      "host": "paddle.com",
+      "id": "2ebe5fe4f1c5ae2006c1356c6c08d179",
+      "score": 100,
+      "coverage": 72,
+      "unknown": 4,
+      "observedAt": "2026-10-11T15:53:30.008Z"
+    },
+    {
+      "host": "plausible.io",
+      "id": "c794dfa7a45324f511e3352930d5d7d7",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:24.146Z"
+    },
+    {
+      "host": "posthog.com",
+      "id": "aa718b85db22d149ebf178d559777b8a",
+      "score": null,
+      "coverage": 40,
+      "unknown": 7,
+      "observedAt": "2026-10-11T15:53:24.741Z"
+    },
+    {
+      "host": "postman.com",
+      "id": "fe62aff13a9e2f31f459adab64d2576e",
+      "score": 88,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:21.819Z"
+    },
+    {
+      "host": "railway.com",
+      "id": "39928db8d4d307a55154d810b9c82dea",
+      "score": 88,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:02.329Z"
+    },
+    {
+      "host": "render.com",
+      "id": "647f92cc75eee04ecd907831f57b7908",
+      "score": 96,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:03.736Z"
+    },
+    {
+      "host": "resend.com",
+      "id": "3d87e6c07e77f4328cd2a843f537f816",
+      "score": 96,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:29.603Z"
+    },
+    {
+      "host": "sentry.io",
+      "id": "163419512d5f9a7f6327992c100a591d",
+      "score": 88,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:23.678Z"
+    },
+    {
+      "host": "slack.com",
+      "id": "6b508554e780c1a0eec13a72bbbe7629",
+      "score": 72,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:07.176Z"
+    },
+    {
+      "host": "stripe.com",
+      "id": "933e7342590ad8abade31d7bcc246cec",
+      "score": 88,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:25.977Z"
+    },
+    {
+      "host": "supabase.com",
+      "id": "929ea597856ecca905e64779235a5683",
+      "score": 96,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:01.820Z"
+    },
+    {
+      "host": "tally.so",
+      "id": "753e7c16bead0e250716f2f74095c57c",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:11.103Z"
+    },
+    {
+      "host": "trello.com",
+      "id": "4a77340cafd5cc2a9b4bb1a6a1e9ecbc",
+      "score": 78,
+      "coverage": 92,
+      "unknown": 1,
+      "observedAt": "2026-10-11T15:53:18.473Z"
+    },
+    {
+      "host": "typeform.com",
+      "id": "d108aced750186e8c9b84234f0017bdd",
+      "score": 92,
+      "coverage": 96,
+      "unknown": 1,
+      "observedAt": "2026-10-11T15:53:11.926Z"
+    },
+    {
+      "host": "umami.is",
+      "id": "e5f6b509344b7c0330c9b9a893c1c8d5",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:24.527Z"
+    },
+    {
+      "host": "vercel.com",
+      "id": "b8214a5261d4170877c7edb92cdf0425",
+      "score": 96,
+      "coverage": 92,
+      "unknown": 1,
+      "observedAt": "2026-10-11T15:53:00.592Z"
+    },
+    {
+      "host": "zapier.com",
+      "id": "c775e1f96fd2277c8ef030ec0006b453",
+      "score": 80,
+      "coverage": 100,
+      "unknown": 0,
+      "observedAt": "2026-10-11T15:53:14.631Z"
+    }
+  ]
+}

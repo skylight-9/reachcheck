@@ -1,0 +1,27 @@
+name: reachcheck
+services:
+  reachcheck:
+    build: ..
+    image: reachcheck:local
+    container_name: reachcheck
+    restart: unless-stopped
+    init: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    environment:
+      SITE_URL: https://reach.mimxo.com
+      RATE_SALT: ${RATE_SALT:?Set a random rate-limit salt}
+      BLOCKED_IPS: 5.253.17.14
+    ports:
+      - "127.0.0.1:8792:8792"
+    volumes:
+      - /opt/reachcheck/data:/app/data
+    mem_limit: 384m
+    cpus: 1.0
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: "3"
